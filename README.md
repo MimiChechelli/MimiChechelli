@@ -1,6 +1,6 @@
 ## Ola sou Michelli Patricia Luvison!
 
-Sou estudantes de Sistemas de Informação da UFSC (2023-1) e estou buscando meu primeiro emprego na área de tecnologia, estou estudando as seguntes linguagens:
+Sou estudantes de Sistemas de Informação da UFSC (2023-1) e estou buscando meu primeiro emprego na área de tecnologia, atualmente estudo as seguntes linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
