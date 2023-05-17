@@ -8,6 +8,12 @@ Sou estudantes de Sistemas de Informação da UFSC (2023-1) e estou buscando meu
   <img align="center" alt="MI-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MI-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </div>
+  
+  
+  <div style="display: inline_block"><br>
+  <a href="[https://github.com/MimiChechelli](https://github.com/MimiChechelli)"> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiChechelli&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
   ##
