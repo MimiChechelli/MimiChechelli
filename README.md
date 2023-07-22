@@ -1,6 +1,8 @@
-## Ola sou Michelli Patricia Luvison!
+## Olá sou Michelli Patricia Luvison!
 
-Sou estudantes de Sistemas de Informação da UFSC (2023-1) e estou buscando meu primeiro emprego na área de tecnologia, atualmente estudo as seguntes linguagens:
+Sou estudantes de Sistemas de Informação da UFSC (2023-1), adoro gatos, música e aprender coisas novas. Estou desenvolvendo um hobby em jogos, gosto muito de Minecraft e Dead Cells. Tenho uma personalidade quieta e reservada, porém não tenho grandes dificuldades com trabalho em equipe seguindo ou sendo a liderança.
+
+Atualmente tenho interesse nas seguntes linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
