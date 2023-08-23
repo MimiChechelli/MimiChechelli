@@ -2,7 +2,7 @@
 
 Sou estudantes de Sistemas de Informação da UFSC (2023-1), adoro gatos, música e aprender coisas novas. Estou desenvolvendo um hobby em jogos, gosto muito de Minecraft e Dead Cells. Tenho uma personalidade quieta e reservada, porém não tenho grandes dificuldades com trabalho em equipe seguindo ou sendo a liderança.
 
-Atualmente tenho interesse nas seguntes linguagens:
+Atualmente tenho foco nas seguntes linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="MI-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
