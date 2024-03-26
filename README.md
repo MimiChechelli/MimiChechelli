@@ -1,6 +1,6 @@
 ## Olá sou Michelli Patricia Luvison!
 
-Sou estudantes de Sistemas de Informação da UFSC (2023-1), adoro gatos, música e aprender coisas novas. Estou desenvolvendo um hobby em jogos, gosto muito de Minecraft e Dead Cells. Tenho uma personalidade quieta e reservada, porém adoro trabalhar em equipes dedicadas e empenhadas em atingir um objetivo conjunto.
+Sou estudantes de Sistemas de Informação na UFSC, adoro gatos, música e aprender coisas novas. Estou desenvolvendo um hobby em jogos, gosto muito de Minecraft, Baldur's Gate e Dead Cells. Tenho uma personalidade quieta e reservada, porém adoro trabalhar em equipes dedicadas e empenhadas em atingir um objetivo conjunto. Quero me tornar uma grande ciêntista de dados no futuro e aqui você pode encontrar meu projetos. 
   
   <div style="display: inline_block"><br>
   <a href="[https://githubhttps://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg.com/MimiChechelli](https://github.com/MimiChechelli)"> 
