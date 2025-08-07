@@ -1,14 +1,42 @@
-## Olá sou Michelli Patricia Luvison!
+## 👋 Olá! Eu sou Michelli Patricia Luvison
 
-Sou estudantes de Sistemas de Informação na UFSC, adoro gatos, música e aprender coisas novas. Estou desenvolvendo um hobby em jogos, gosto muito de Minecraft, Baldur's Gate e Dead Cells. Tenho uma personalidade quieta e reservada, porém adoro trabalhar em equipes dedicadas e empenhadas em atingir um objetivo conjunto. Quero me tornar uma grande ciêntista de dados no futuro e aqui você pode encontrar meu projetos. 
-  
-<div style="display: inline_block"><br>
-  <a href="[https://githubhttps://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg.com/MimiChechelli](https://github.com/MimiChechelli)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiChechelli&layout=compact&langs_count=16&theme=tokyonight"/>
+Sou estudante de **Sistemas de Informação na UFSC**, apaixonada por dados, inteligência artificial, gatos e por aprender sempre algo novo. Tenho experiência prática com **engenharia de dados, ciência de dados e machine learning**, atuando em projetos acadêmicos, estágios e iniciativas voluntárias.
+
+Atualmente trabalho com **pipelines de dados, análise preditiva e visualização**, usando ferramentas como **Python, SQL, Spark, Power BI, Looker Studio, BigQuery e Docker**. Também estou estudando sobre **DataOps, MLOps e orquestração com Airflow**.
+
+Apesar de ser uma pessoa mais quieta e reservada, adoro trabalhar em **equipes dedicadas e colaborativas**, especialmente quando há propósito e impacto positivo envolvido.
+
+Aqui no GitHub você encontra meus projetos de dados, visualizações, modelos de machine learning e algumas experimentações técnicas. 🌟
+
+---
+
+### 🚀 Habilidades em destaque
+
+- **Linguagens:** Python, SQL, R  
+- **Ferramentas & Tecnologias:** BigQuery, Spark, Airflow, Docker, Git, Looker Studio, Power BI  
+- **Áreas de atuação:** Engenharia de Dados, Ciência de Dados, Machine Learning, Visualização de Dados  
+- **Soft Skills:** Organização, pensamento crítico, comunicação em equipe, adaptabilidade  
+
+---
+
+<div style="display: inline-block; transform: scale(1.5); transform-origin: top left;">
+  <a href="https://github.com/MimiChechelli"> 
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimiChechelli&layout=compact&langs_count=16&theme=tokyonight" 
+      alt="Top Langs"
+    />
+  </a>
 </div>
-    
-  ## Entre em contato atraves de: 
+
+---
+
+## 📫 Entre em contato:
+
 <div> 
-  <a href="https://www.linkedin.com/in/michelli-luvison-623649268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatomichiluvison@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/michelli-luvison-623649268/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:michiluvison@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
